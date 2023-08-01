@@ -9,11 +9,11 @@
 
     <label for="LastName"><b>LastName</b></label>
     <input type="text" placeholder="Enter Name" name="name" required>
-     
-    <label for="dob"><b>Dob</b></label>
-    <input type="dob" placeholder="Enter dob" name="dob" required>
 
-<label for="Email"><b>Email</b></label>
+    <label for="Userid"><b>Userid</b></label>
+    <input type="text" placeholder="Enter Userid" name="userid" required>
+     
+    <label for="Email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="Email" required>
 
     <label for="psw"><b>Password</b></label>
