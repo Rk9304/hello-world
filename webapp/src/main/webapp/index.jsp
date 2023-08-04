@@ -10,9 +10,6 @@
     <label for="LastName"><b>LastName</b></label>
     <input type="text" placeholder="Enter Name" name="name" required>
 
-    <label for="dob"><b>Dob</b></label>
-    <input type="dob" placeholder="Enter dob" name="dob" required>
-
     <label for="Userid"><b>Userid</b></label>
     <input type="text" placeholder="Enter Userid" name="userid" required>
      
