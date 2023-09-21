@@ -9,15 +9,15 @@
 
     <label for="LastName"><b>LastName</b></label>
     <input type="text" placeholder="Enter Name" name="name" required>
-
-    <label for="DOB"><b>DOB</b></label>
-    <input type="text" placeholder="Enter DOB" name="DOB" required>
-   
+ 
     <label for="Email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="Email" required>
 
+     <label for="Uname"><b>Uname</b></label>
+    <input type="text" placeholder="Enter Uname" name="Uname" required>
+
     <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" required>
+    <input type="password" placeholder="Enter Password" name="pswd" required>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
