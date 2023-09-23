@@ -9,11 +9,13 @@
 
     <label for="LastName"><b>LastName</b></label>
     <input type="text" placeholder="Enter Name" name="name" required>
+
+    <label for="Dob"><b>Dob</b></label>
+    <input type="text" placeholder="Enter Dob" name="Dob" required>
  
     <label for="Email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="Email" required>
- 
-      
+       
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="pswd" required>
 
