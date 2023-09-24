@@ -10,9 +10,7 @@
     <label for="LastName"><b>LastName</b></label>
     <input type="text" placeholder="Enter Name" name="name" required>
 
-    <label for="Dob"><b>Dob</b></label>
-    <input type="text" placeholder="Enter Dob" name="Dob" required>
- 
+    
     <label for="Email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="Email" required>
        
